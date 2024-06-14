@@ -9,4 +9,8 @@ Sou estudante do 4º Semestre de Ciências da Computação na UNISANTOS, e estou
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   </div>
 
+
+
+Confira alguns projetos ↓↓↓
+
           
