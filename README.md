@@ -8,6 +8,8 @@ Sou estudante do 4º Semestre de Ciências da Computação na UNISANTOS, e estou
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img width='50' height='50' src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
+    <img width='50' height='50' src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
+    <img width='50' height='50' src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
   </div>
 
 
