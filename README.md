@@ -7,7 +7,7 @@ Sou estudante do 4º Semestre de Ciências da Computação na UNISANTOS, e estou
   <div style="display: inline">
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img width='50' height='50' src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png"/>
+    <img width='50' height='50' src="https://icons8.com.br/icon/20909/html-5"/>
   </div>
 
 
